@@ -26,3 +26,4 @@ ws2.Range('H5').Value = data_di_oggi
 
 #wb2.Save()
 #excel.Application.Quit()
+
